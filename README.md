@@ -22,7 +22,7 @@ Feel free to explore my repositories to see some of the projects I'm working on.
   - CompTIA Security+ (In Progress)
   - CompTIA Network+
   - CompTIA A+
-
+<!--
 ## 📂 Featured Projects
 
 Here are a few projects I’ve worked on:
@@ -51,6 +51,6 @@ Here are a few projects I’ve worked on:
 - **SOC Analyst** skills for incident detection and response.
 
 ---
-
+--!>
 Thank you for visiting my profile! I'm always looking to learn, grow, and collaborate with fellow security enthusiasts. Feel free to reach out if you have any questions or want to work together.
 
