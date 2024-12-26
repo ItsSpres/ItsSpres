@@ -23,7 +23,7 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
   - CompTIA Network+ (Planned)  
   - Cisco CCNA (Planned)  
 
-<!--  
+
 ## 📂 Featured Projects  
 
 Here are a few projects I’ve worked on:  
@@ -51,6 +51,6 @@ Here are a few projects I’ve worked on:
 - **Cybersecurity Fundamentals** for secure networking practices.  
 - Exploring **Cloud Networking** and AWS security configurations.  
 ---  
--->  
+
 
 Thank you for visiting my profile! I’m always eager to learn, collaborate, and share knowledge with fellow enthusiasts. Let’s connect and build something great together!  
