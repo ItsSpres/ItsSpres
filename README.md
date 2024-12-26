@@ -1,46 +1,43 @@
-# Hi, I'm Ian Spresney 👋  
+# Hi, I'm Ian 👋  
 
-Aspiring **Network Engineer** and **Cybersecurity Enthusiast** passionate about creating secure and efficient IT solutions.  
+Welcome to my GitHub profile! I’m an **aspiring Network Engineer** with a passion for **Cybersecurity** and **IT Solutions**. I hold a **Bachelor's degree in Computer Information Systems (CIS)** and **Business Analysis and Management**, and I love exploring innovative ways to optimize networks and enhance security.  
 
----
+Feel free to explore my repositories to see some of the projects I’ve worked on. I’m always open to collaborating on exciting network engineering and security projects!  
 
-## 🌟 Featured Projects  
+## 🧑‍💻 About Me  
 
-### 🖥️ **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
-- **Skills**: Docker, VPNs, Network Security  
-- Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.  
+- 🎓 **Bachelor's in Computer Information Systems (CIS)** and **Business Analysis & Management**  
+- 🔐 Passionate about **Network Security**, focusing on secure connectivity, firewall management, and incident response.  
+- 📚 Currently studying for the **CompTIA A+**, **Network+**, and **CCNA** certifications.  
+- 👾 Interested in **Networking**, **Threat Detection**, and **System Optimization**.  
+- 🚀 Open to opportunities in network engineering and cybersecurity.  
 
-### 🔐 **[Detection Lab](https://github.com/ItsSpres/Detection-Lab)**  
-- **Skills**: SIEM Integration, Threat Detection, Incident Response  
-- Simulated a threat detection environment for log analysis and response.  
+## 🔨 Skills & Tools  
 
-### ⚙️ **SOC Automation Project**  
-- **Skills**: SOAR, Python Scripting, Incident Mitigation  
-- Automated security operations using Shuffle SOAR, TheHive, and Velociraptor.  
+- **Networking:** VLAN Configuration, VPNs, OpenWRT, Tailscale, Firewalls  
+- **Security:** Wireshark, Nmap, Kali Linux, OWASP Principles  
+- **Programming & Automation:** Python, Bash Scripting, SQL  
+- **Tools:** Docker, Linux, Maximo (CMMS), Network Monitoring Tools  
+- **Certifications:**  
+  - CompTIA A+ (In Progress)  
+  - CompTIA Network+ (Planned)  
+  - Cisco CCNA (Planned)  
+## 📂 Featured Projects  
 
----
+Here are a few projects I’ve worked on:  
+1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
+   Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.  
 
-## 🛠️ Skills  
+## 📬 How to Reach Me  
 
-- **Networking**: VLANs, VPNs, Firewalls, Incident Response  
-- **Cybersecurity**: Threat Detection, SIEM, SOAR Automation  
-- **Programming**: Python, Bash, SQL  
-- **Tools**: Wireshark, Docker, Nmap, Velociraptor  
+- **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
 
----
+---  
 
-## 🎓 Education & Certifications  
+### 🌱 Currently Learning  
+- Advanced **Routing and Switching** concepts.  
+- **Cybersecurity Fundamentals** for secure networking practices.  
+- Exploring **Cloud Networking** and AWS security configurations.  
+---  
 
-- **Bachelor’s in Computer Information Systems (CIS)** and **Business Analysis**  
-- Certifications in progress: **CompTIA A+**, **Network+**, **Cisco CCNA**  
-
----
-
-## 📫 Connect  
-
-- **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)  
-- **GitHub**: [ItsSpres](https://github.com/ItsSpres)  
-
----
-
-Thank you for visiting my profile! Let’s collaborate on networking and cybersecurity projects!  
+Thank you for visiting my profile! I’m always eager to learn, collaborate, and share knowledge with fellow enthusiasts. Let’s connect and build something great together!  
