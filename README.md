@@ -35,9 +35,6 @@ Here are a few projects I’ve worked on:
 
 - **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
 
-## Other Links
-- **Personal Website**: [ItsSpres.com](https://itsspres.com)  
-
 ---  
 
 ### 🌱 Currently Learning  
