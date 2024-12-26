@@ -33,9 +33,9 @@ Here are a few projects I’ve worked on:
 
 ## 📬 How to Reach Me  
 
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/ianspresney
-- **GitHub**: [yourgithubusername](https://github.com/itsspres)  
-- **Personal Website**: [website](https://itsspres.com)  
+- **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
+- **GitHub**: [ItsSpres](https://github.com/itsspres)  
+- **Personal Website**: [ItsSpres.com](https://itsspres.com)  
 
 ---  
 
