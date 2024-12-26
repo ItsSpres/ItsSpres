@@ -12,6 +12,13 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 - 👾 Interested in **Networking**, **Threat Detection**, and **System Optimization**.  
 - 🚀 Open to opportunities in network engineering and cybersecurity.  
 
+## 📂 Featured Projects  
+
+Here are a few projects I’ve worked on:  
+1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
+- **Skills**: Docker, VPNs, Network Security  
+- Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections. 
+  
 ## 🔨 Skills & Tools  
 
 - **Networking:** VLAN Configuration, VPNs, OpenWRT, Tailscale, Firewalls  
@@ -22,13 +29,7 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
   - CompTIA A+ (In Progress)  
   - CompTIA Network+ (Planned)  
   - Cisco CCNA (Planned)  
-## 📂 Featured Projects  
-
-Here are a few projects I’ve worked on:  
-1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
-- **Skills**: Docker, VPNs, Network Security  
-- Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections. 
-   
+ 
 ## 📬 How to Reach Me  
 
 - **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
