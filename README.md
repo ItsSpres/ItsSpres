@@ -28,14 +28,8 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 
 Here are a few projects I’ve worked on:  
 
-1. **[Home Network Optimization with OpenWRT](https://github.com/yourgithubusername/home-network-optimization)**  
-   Configured OpenWRT to optimize network performance and enhance security using QoS rules and VPNs.  
-
-2. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/yourgithubusername/minecraft-server-deployment)**  
+1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker/blob/main/README.md)**  
    Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.  
-
-3. **[Simulated Enterprise Network Build](https://github.com/yourgithubusername/enterprise-network-build)**  
-   Designed and implemented a small business LAN/WAN topology with VLAN configurations, firewalls, and VPNs.  
 
 ## 📬 How to Reach Me  
 
