@@ -28,15 +28,14 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 
 Here are a few projects I’ve worked on:  
 
-1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker/blob/main/README.md)**  
+1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
    Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.  
 
 ## 📬 How to Reach Me  
 
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/yourprofile)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **GitHub**: [yourgithubusername](https://github.com/yourgithubusername)  
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)  
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/ianspresney
+- **GitHub**: [yourgithubusername](https://github.com/itsspres)  
+- **Personal Website**: [website](https://itsspres.com)  
 
 ---  
 
