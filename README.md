@@ -20,7 +20,9 @@ Here are a few projects I’ve worked on:
 - Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.
 - ### Minecraft Server Status
 <!-- MC_SERVER_STATUS_START -->
-Server status will be updated here.
+✅ **Server is online!**
+**IP Address**: `pms.blockhero.net`
+**Players Online**: 693/2000
 <!-- MC_SERVER_STATUS_END -->
 
 
