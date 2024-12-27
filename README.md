@@ -17,7 +17,13 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 Here are a few projects I’ve worked on:  
 1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
 - **Skills**: Docker, VPNs, Network Security  
-- Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections. 
+- Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.
+- ### Minecraft Server Status
+<!-- MC_SERVER_STATUS_START -->
+Server status will be updated here.
+<!-- MC_SERVER_STATUS_END -->
+
+
   
 ## 🔨 Skills & Tools  
 
