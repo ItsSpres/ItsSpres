@@ -22,7 +22,7 @@ Here are a few projects I’ve worked on:
 <!-- MC_SERVER_STATUS_START -->
 ✅ **Server is online!**
 **IP Address**: `pms.blockhero.net`
-**Players Online**: 787/2000
+**Players Online**: 814/2000
 <!-- MC_SERVER_STATUS_END -->
 
 
