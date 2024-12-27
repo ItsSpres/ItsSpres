@@ -38,6 +38,7 @@ Here are a few projects I’ve worked on:
 ## 📬 How to Reach Me  
 
 - **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
+- **GitHub**: [ItsSpres](https://github.com/ItsSpres)
 
 ---  
 
@@ -45,6 +46,7 @@ Here are a few projects I’ve worked on:
 - Advanced **Routing and Switching** concepts.  
 - **Cybersecurity Fundamentals** for secure networking practices.  
 - Exploring **Cloud Networking** and AWS security configurations.  
+
 ---  
 
 Thank you for visiting my profile! I’m always eager to learn, collaborate, and share knowledge with fellow enthusiasts. Let’s connect and build something great together!  
