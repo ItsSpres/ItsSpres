@@ -24,6 +24,9 @@ Here are a few projects I’ve worked on:
    - **System:** HP ProDesk 600 G4 Mini Desktop
    - **Future:** May bring over to PlayIt.gg (reverse proxy service) for public access.
 
+## 💻 Home Lab
+- Coming soon...
+
 ## 🔨 Skills & Tools  
 
 - **Networking:** VLAN Configuration, VPNs, OpenWRT, Tailscale, Firewalls  
@@ -39,13 +42,6 @@ Here are a few projects I’ve worked on:
 
 - **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
 - **GitHub**: [ItsSpres](https://github.com/ItsSpres)
-
----  
-
-### 🌱 Currently Learning  
-- Advanced **Routing and Switching** concepts.  
-- **Cybersecurity Fundamentals** for secure networking practices.  
-- Exploring **Cloud Networking** and AWS security configurations.  
 
 ---  
 
