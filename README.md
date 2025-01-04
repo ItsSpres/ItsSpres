@@ -21,11 +21,12 @@ Here are a few projects I’ve worked on:
 - **Skills**: Docker, VPNs, Network Security  
 - Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.
 - **Server Status:** <!-- MC_SERVER_STATUS_START -->
+<!--
 ✅ **Server is online!**
 **IP Address**: `pms.blockhero.net`
 **Players Online**: 748/2000
 <!-- MC_SERVER_STATUS_END -->
--->
+
 ## 🔨 Skills & Tools  
 
 - **Networking:** VLAN Configuration, VPNs, OpenWRT, Tailscale, Firewalls  
