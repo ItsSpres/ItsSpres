@@ -16,7 +16,7 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 ## 📂 Featured Projects  
 
 Here are a few projects I’ve worked on:  
-1. **[Amazon Delete Saved Later Items](https://github.com/ItsSpres/DeleteAmazonSaveLaterItems/tree/main)**
+1. **[Amazon Delete Saved Later Items](https://github.com/ItsSpres/DeleteAmazonSaveLaterItems)**
    - Auto delete/remove your Amazon saved later items.
 2. **Minecraft Server**
    - **Technologies:** Ubuntu, Docker, Tailscale
