@@ -18,7 +18,7 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 Here are a few projects I’ve worked on:  
 1. **[Amazon Delete Saved Later Items](https://github.com/ItsSpres/DeleteAmazonSaveLaterItems)**
    - Auto delete/remove your Amazon saved later items.
-2. **Minecraft Server (Bedrock Edition)**
+2. **[Minecraft Server (Bedrock Edition)](https://github.com/ItsSpres/Minecraft-Bedrock-Server)**
    - **Technologies:** Ubuntu, Docker, Tailscale
    - **System:** HP ProDesk 600 G4 Mini Desktop
    - **Future:** May bring over to PlayIt.gg (reverse proxy service) for public access.
