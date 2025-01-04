@@ -22,16 +22,6 @@ Here are a few projects I’ve worked on:
    - **Technologies:** Ubuntu, Docker, Tailscale
    - **System:** HP ProDesk 600 G4 Mini Desktop
    - **Future:** May bring over to PlayIt.gg (reverse proxy service) for public access.
-<!--
-1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
-- **Skills**: Docker, VPNs, Network Security  
-- Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.
-- **Server Status:** <!-- MC_SERVER_STATUS_START -->
-<!--
-✅ **Server is online!**
-**IP Address**: `pms.blockhero.net`
-**Players Online**: 748/2000
-<!-- MC_SERVER_STATUS_END -->
 
 ## 🔨 Skills & Tools  
 
