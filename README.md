@@ -16,6 +16,7 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 ## 📂 Featured Projects  
 
 Here are a few projects I’ve worked on:  
+<!--
 1. **[Minecraft Server Deployment Using Docker and Tailscale](https://github.com/ItsSpres/Minecraft-Docker)**  
 - **Skills**: Docker, VPNs, Network Security  
 - Deployed a secure multiplayer server using Docker containers and Tailscale for encrypted connections.
@@ -24,7 +25,7 @@ Here are a few projects I’ve worked on:
 **IP Address**: `pms.blockhero.net`
 **Players Online**: 748/2000
 <!-- MC_SERVER_STATUS_END -->
-
+-->
 ## 🔨 Skills & Tools  
 
 - **Networking:** VLAN Configuration, VPNs, OpenWRT, Tailscale, Firewalls  
