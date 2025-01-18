@@ -1,6 +1,6 @@
 # Hi, I'm Ian 👋  
 
-Welcome to my GitHub profile! I’m an **aspiring Network Engineer** with a passion for **Cybersecurity** and **IT Solutions**. I hold a **Bachelor's degree in Computer Information Systems (CIS)** and **Business Analysis and Management**, and I love exploring innovative ways to optimize networks and enhance security.  
+Welcome to my GitHub profile! I’m an **aspiring Network Engineer** with a passion for **Cybersecurity** and **IT Solutions**. I hold a **Bachelor's degree in Computer Information Systems (CIS)** and **Business Analysis**, and I love exploring innovative ways to optimize networks and enhance security.  
 
 Feel free to explore my repositories to see some of the projects I’ve worked on. I’m always open to collaborating on exciting network engineering and security projects!  
 
