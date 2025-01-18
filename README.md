@@ -7,7 +7,7 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 ## 🧑‍💻 About Me  
 
 - 🎓 **Bachelor of Science in Computer Information Systems (CIS)**
-- 🎓 **Bachelor of Science in Business Analysis & Management**  
+- 🎓 **Bachelor of Science in Business Analysis**  
 - 🔐 Passionate about **Network Security**, focusing on secure connectivity, firewall management, and incident response.  
 - 📚 Currently studying for the **CompTIA A+**, **Network+**, and **CCNA** certifications.  
 - 👾 Interested in **Networking**, **Threat Detection**, and **System Optimization**.  
