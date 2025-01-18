@@ -23,7 +23,7 @@ Here are a few projects I’ve worked on:
    - **Technologies:** Ubuntu, Docker, Tailscale
    - **System:** HP ProDesk 600 G4 Mini Desktop
    - **Future:** May bring over to PlayIt.gg (reverse proxy service) for public access.
-3. **[Shell Script for Automating Home Lab Setup/Build]**(https://github.com/ItsSpres/Home-Lab)
+3. **[Shell Script for Automating Home Lab Setup/Build](https://github.com/ItsSpres/Home-Lab)**
    - Jellyfin, Portainer, Minecraft Server, Tailscale, Docker Swarm
 
 ## 💻 Home Lab
