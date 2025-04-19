@@ -9,7 +9,6 @@ Feel free to explore my repositories to see some of the projects I’ve worked o
 - 🎓 **Bachelor of Science in Computer Information Systems (CIS)**
 - 🎓 **Bachelor of Science in Business Analysis**  
 - 🔐 Passionate about **Network Security**, focusing on secure connectivity, firewall management, and incident response.  
-- 📚 Currently studying for the **CompTIA A+**, **Network+**, and **CCNA** certifications.  
 - 👾 Interested in **Networking**, **Threat Detection**, and **System Optimization**.  
 - 🚀 Open to opportunities in network engineering and cybersecurity.  
 
@@ -35,14 +34,9 @@ Here are a few projects I’ve worked on:
 - **Security:** Wireshark, Nmap, Kali Linux, OWASP Principles  
 - **Programming & Automation:** Python, Bash Scripting, SQL  
 - **Tools:** Docker, Linux, Maximo (CMMS), Network Monitoring Tools  
-- **Certifications:**  
-  - CompTIA A+ (In Progress)  
-  - CompTIA Network+ (Planned)  
-  - Cisco CCNA (Planned)  
  
 ## 📬 How to Reach Me  
 
-- **LinkedIn**: [Ian Spresney](https://www.linkedin.com/in/ianspresney)
 - **GitHub**: [ItsSpres](https://github.com/ItsSpres)
 
 ---  
