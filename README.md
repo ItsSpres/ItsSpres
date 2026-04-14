@@ -1,44 +1,72 @@
-# Hi, I'm Ian 👋  
+# Ian Spresney
 
-Welcome to my GitHub profile! I’m an **aspiring Network Engineer** with a passion for **Cybersecurity** and **IT Solutions**. I hold a **Bachelor's degree in Computer Information Systems (CIS)** and **Business Analysis**, and I love exploring innovative ways to optimize networks and enhance security.  
+**IT Professional | Linux & Infrastructure | Dual B.S. CIS & Business Analysis**
 
-Feel free to explore my repositories to see some of the projects I’ve worked on. I’m always open to collaborating on exciting network engineering and security projects!  
+I build and operate production-grade infrastructure at home and maintain 
+complex systems professionally. Currently working as a Machinist and 
+Acting Shift Lead at Disneyland Resort while pursuing IT roles focused 
+on systems administration, technical support, and infrastructure operations.
 
-## 🧑‍💻 About Me  
+---
 
-- 🎓 **Bachelor of Science in Computer Information Systems (CIS)**
-- 🎓 **Bachelor of Science in Business Analysis**  
-- 🔐 Passionate about **Network Security**, focusing on secure connectivity, firewall management, and incident response.  
-- 👾 Interested in **Networking**, **Threat Detection**, and **System Optimization**.  
-- 🚀 Open to opportunities in network engineering and cybersecurity.  
+## 🖥️ Featured Projects
 
-## 📂 Featured Projects  
+### [Enterprise Hybrid Homelab](https://github.com/ItsSpres/Home-Lab)
+Multi-node Linux server environment built on infrastructure-as-code principles.
 
-Here are a few projects I’ve worked on:  
-1. **[Amazon Delete Saved Later Items](https://github.com/ItsSpres/DeleteAmazonSaveLaterItems)**
-   - Auto delete/remove your Amazon saved later items.
-   - **Future:** Bring to iOS Store via Safari Extension
-2. **[Minecraft Server (Bedrock Edition)](https://github.com/ItsSpres/Minecraft-Bedrock-Server)**
-   - **Technologies:** Ubuntu, Docker, Tailscale
-   - **System:** HP ProDesk 600 G4 Mini Desktop
-   - **Future:** May bring over to PlayIt.gg (reverse proxy service) for public access.
-3. **[Shell Script for Automating Home Lab Setup/Build](https://github.com/ItsSpres/Home-Lab)**
-   - Jellyfin, Portainer, Minecraft Server, Tailscale, Docker Swarm
+- **Architecture:** Split-node design — dedicated media node (Server 1) 
+  and command center node (Server 2)
+- **Stack:** Docker Compose, Prometheus, Grafana, Jellyfin, Node Exporter
+- **Network:** UniFi Cloud Gateway Ultra, four-VLAN segmentation with 
+  documented firewall rules
+- **Remote Access:** Tailscale (zero trust, primary) + WireGuard (fallback)
+- **Automation:** Custom Bash controllers managing full service lifecycle 
+  across both nodes
 
-## 💻 Home Lab
-- Coming soon...
+### [Amazon Saved Items Remover](https://github.com/ItsSpres/DeleteAmazonSaveLaterItems)
+Asynchronous JavaScript script for automated bulk DOM manipulation with 
+cross-platform documentation covering Windows, macOS, and iOS via 
+Web Inspector.
 
-## 🔨 Skills & Tools  
+### [Outland Adventures — MySQL Database](https://github.com/ItsSpres/MySQLDatabase-CSD310-GroupProj2023)
+Normalized relational database with 8 tables; analytical queries for 
+booking trends, inventory aging, and sales pattern reporting.
 
-- **Networking:** VLAN Configuration, VPNs, OpenWRT, Tailscale, Firewalls  
-- **Security:** Wireshark, Nmap, Kali Linux, OWASP Principles  
-- **Programming & Automation:** Python, Bash Scripting, SQL  
-- **Tools:** Docker, Linux, Maximo (CMMS), Network Monitoring Tools  
- 
-## 📬 How to Reach Me  
+### [Python Weather App](https://github.com/ItsSpres/Python-Weather-App)
+Desktop application using tkinter GUI and OpenWeatherMap API with 
+modular config file for API key management.
 
-- **GitHub**: [ItsSpres](https://github.com/ItsSpres)
+---
 
----  
+## 🛠️ Skills & Tools
 
-Thank you for visiting my profile! I’m always eager to learn, collaborate, and share knowledge with fellow enthusiasts. Let’s connect and build something great together!  
+**Operating Systems:** macOS · Linux (Ubuntu) · Windows · iOS
+
+**Infrastructure:** Docker · Docker Compose · Bash Scripting · 
+systemd · SSH
+
+**Networking:** UniFi (UCG Ultra) · VLANs · WireGuard · Tailscale · 
+DNS · Firewall Policy
+
+**Observability:** Grafana · Prometheus · Node Exporter
+
+**Development:** Python · JavaScript · MySQL · API Integration
+
+**Enterprise Tools:** Maximo CMMS · Microsoft Office · Google Workspace
+
+---
+
+## 🎓 Education
+
+**Bellevue University** — Magna Cum Laude, 3.95 GPA
+
+- B.S. Computer Information Systems
+- B.S. Business Analysis & Management
+- Disney Aspire Program | Graduated March 2026
+
+---
+
+## 📬 Contact
+
+**Email:** itsians@outlook.com
+**Location:** Lakewood, CA
