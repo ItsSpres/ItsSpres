@@ -2,10 +2,10 @@
 
 **IT Professional | Linux & Infrastructure | Dual B.S. CIS & Business Analysis**
 
-I build and operate production-grade infrastructure at home and maintain 
-complex systems professionally. Currently working as a Machinist and 
-Acting Shift Lead at Disneyland Resort while pursuing IT roles focused 
-on systems administration, technical support, and infrastructure operations.
+I build and operate production-grade infrastructure at home and bring 4.5 years 
+of hands-on experience maintaining complex systems in a mission-critical 
+production environment at Disneyland Resort. Currently pursuing IT roles focused 
+on technical support, systems administration, and infrastructure operations.
 
 ---
 
